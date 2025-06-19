@@ -70,7 +70,7 @@
 
 ### 🌱 Currently Learning
 
-- Backend APIs and microservices 🌐  
+- Backend APIs  
 - Building mobile-first solutions with Flutter and React Native 📱  
 - Ethical hacking & cybersecurity basics 🔐
 

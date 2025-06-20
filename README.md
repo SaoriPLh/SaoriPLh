@@ -68,12 +68,13 @@
 </div>
 
 ---
-
 ### 🌱 Currently Learning
 
 - Backend APIs  
-- Building mobile-first solutions with Flutter and React Native 📱  
+- Building mobile-first solutions with Flutter and React Native 📱
+- Frontend development with Angular 🅰️  
 - Ethical hacking & cybersecurity basics 🔐
+
 
 ---
 

@@ -44,7 +44,6 @@
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" width="150px"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" width="150px"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" width="150px"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" width="150px"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" width="150px"/>
 
 </div>

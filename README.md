@@ -10,10 +10,10 @@
 ---
 
 ### 🚀 About Me
-
+- 🛠️ Focused on fullstack development, mobile apps, and backend APIs.
 - 🎓 Student of Computer Systems Engineering at TecNM Campus Orizaba.
 - 🔐 Learning ethical hacking and cybersecurity.
-- 🛠️ Focused on fullstack development, mobile apps, and backend APIs.
+
 
 ---
 
@@ -70,7 +70,7 @@
 ---
 ### 🌱 Currently Learning
 
-- Backend APIs  
+
 - Building mobile-first solutions with Flutter and React Native 📱
 - Frontend development with Angular 🅰️  
 - Ethical hacking & cybersecurity basics 🔐

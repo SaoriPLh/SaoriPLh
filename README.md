@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="150px"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" width="150px"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" width="150px"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" width="150px"/>
+
 
 
 <!-- Frameworks -->
@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" width="150px" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" width="150px"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" width="150px"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" width="150px"/>
+
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" width="150px"/>
 
 </div>

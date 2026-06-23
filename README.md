@@ -73,10 +73,6 @@
 ### 🌱 Currently Learning
 
 
-- Building mobile-first solutions with Flutter and React Native 📱
-- Frontend development with Angular 🅰️  
-- Ethical hacking & cybersecurity basics 🔐
-
 
 ---
 
